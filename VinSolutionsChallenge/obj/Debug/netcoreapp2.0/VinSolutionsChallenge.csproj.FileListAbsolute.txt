@@ -1,0 +1,11 @@
+c:\users\jesse\documents\visual studio 2017\Projects\VinSolutionsChallenge\VinSolutionsChallenge\bin\Debug\netcoreapp2.0\VinSolutionsChallenge.deps.json
+c:\users\jesse\documents\visual studio 2017\Projects\VinSolutionsChallenge\VinSolutionsChallenge\bin\Debug\netcoreapp2.0\VinSolutionsChallenge.runtimeconfig.json
+c:\users\jesse\documents\visual studio 2017\Projects\VinSolutionsChallenge\VinSolutionsChallenge\bin\Debug\netcoreapp2.0\VinSolutionsChallenge.runtimeconfig.dev.json
+c:\users\jesse\documents\visual studio 2017\Projects\VinSolutionsChallenge\VinSolutionsChallenge\bin\Debug\netcoreapp2.0\VinSolutionsChallenge.dll
+c:\users\jesse\documents\visual studio 2017\Projects\VinSolutionsChallenge\VinSolutionsChallenge\bin\Debug\netcoreapp2.0\VinSolutionsChallenge.pdb
+c:\users\jesse\documents\visual studio 2017\Projects\VinSolutionsChallenge\VinSolutionsChallenge\obj\Debug\netcoreapp2.0\VinSolutionsChallenge.csprojResolveAssemblyReference.cache
+c:\users\jesse\documents\visual studio 2017\Projects\VinSolutionsChallenge\VinSolutionsChallenge\obj\Debug\netcoreapp2.0\VinSolutionsChallenge.csproj.CoreCompileInputs.cache
+c:\users\jesse\documents\visual studio 2017\Projects\VinSolutionsChallenge\VinSolutionsChallenge\obj\Debug\netcoreapp2.0\VinSolutionsChallenge.AssemblyInfoInputs.cache
+c:\users\jesse\documents\visual studio 2017\Projects\VinSolutionsChallenge\VinSolutionsChallenge\obj\Debug\netcoreapp2.0\VinSolutionsChallenge.AssemblyInfo.cs
+c:\users\jesse\documents\visual studio 2017\Projects\VinSolutionsChallenge\VinSolutionsChallenge\obj\Debug\netcoreapp2.0\VinSolutionsChallenge.dll
+c:\users\jesse\documents\visual studio 2017\Projects\VinSolutionsChallenge\VinSolutionsChallenge\obj\Debug\netcoreapp2.0\VinSolutionsChallenge.pdb
